@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: acrlab0010kso/my-image:1.O.O
+        image: acrlab0010kso/coolapi:1.O.O
         resources:
           limits:
             memory: "128Mi"
